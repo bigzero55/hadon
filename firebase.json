@@ -1,0 +1,11 @@
+{
+  "hosting": {
+    "site": "hadits-online",
+    "public": "dist",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
